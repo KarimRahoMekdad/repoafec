@@ -1,0 +1,21 @@
+body {
+    width: 100%;
+    margin: 0;
+}
+
+main {
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+}
+
+h1 {
+    font-size: larger;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: large;
+    font-weight: 500;
+}
